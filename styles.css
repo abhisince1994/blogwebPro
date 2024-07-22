@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#blog-form {
+    margin-bottom: 20px;
+}
+
+#blog-form input,
+#blog-form textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#blogs {
+    margin-top: 20px;
+}
+
+.blog-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.blog-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.blog-item h2 {
+    margin-top: 0;
+}
+
+.blog-item p {
+    margin-bottom: 10px;
+}
+
+.blog-item button {
+    margin-right: 10px;
+}
